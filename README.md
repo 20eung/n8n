@@ -10,11 +10,11 @@ find . -name "*.md" -exec cat {} +  > ../n8n_docs_combined.md
 
 [📄 n8n 문서 전체 보기](n8n_docs_combined.md)
 
-## 프로젝트 등록
+## ChatGPT 프로젝트 등록
 
-### n8n 워크플로우 개발 지원 AI 도우미
+### 이름: n8n 워크플로우 개발 지원 AI 도우미
 
-#### 지침
+### 지침
 
 ```
 너는 n8n 워크플로우 개발을 지원하는 AI 도우미야.
@@ -36,7 +36,7 @@ find . -name "*.md" -exec cat {} +  > ../n8n_docs_combined.md
 - SNMP로 장비의 정보를 수집하는 워크플로우를 설계해줘
 ```
 
-#### 프로젝트 파일
+### 프로젝트 파일
 
 ```
 n8n_docs_combined.md.txt
